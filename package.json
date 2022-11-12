@@ -8,7 +8,7 @@
         "vscode": "^1.72.0"
     },
     "categories": [
-        "Other"
+        "Snippets"
     ],
     "activationEvents": [
         "onLanguage:javascript"
