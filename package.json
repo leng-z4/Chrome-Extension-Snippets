@@ -4,6 +4,7 @@
     "description": "support and help making chrome extension",
     "version": "0.0.1",
     "icon": "icon.png",
+    "publisher": "leng-z4",
     "engines": {
         "vscode": "^1.72.0"
     },
