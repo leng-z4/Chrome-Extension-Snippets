@@ -4,7 +4,7 @@ This is the vscode extension to make chrome extensions.
 
 ## Features
 
-This extension is snippets of chrome API, and it only supports "chrome.runtime", "chrome.tabs", "chrome.storage", "chrome.contextMenus", "chrome.browserAction".
+This extension is snippets of chrome API.
 
 ## Usage
 
@@ -12,9 +12,15 @@ This extension is snippets of chrome API, and it only supports "chrome.runtime",
 
 ## Release Notes
 
-### 1.0.0
+### 0.1.1
 
-This extension hasn't had only this release note yet. 
+This release note is the latest. 
+
+This release note only supports "chrome.runtime", "chrome.tabs", "chrome.storage", "chrome.contextMenus", "chrome.browserAction", "chrome.action", "chrome.history", "chrome.pageAction", and "chrome.notifications".
+
+### 0.1.0
+
+This release note has terrible bugs, so you should install the latest release note.
 
 ## Information
 
