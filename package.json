@@ -2,7 +2,7 @@
     "name": "chromextnsionsnippets",
     "displayName": "ChromeExtensionSnippets",
     "description": "support and help making chrome extension",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "icon": "icon.png",
     "publisher": "leng-z4",
     "engines": {
